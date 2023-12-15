@@ -26,6 +26,7 @@ This project implements a deep learning model for medical image segmentation, sp
    ```
 
 ## Usage
+You should download the SAM\'s checkpoint here, we prefer vit_h version: [SAM\'s checkpoints](https://github.com/facebookresearch/segment-anything#model-checkpoints)
 
 ### Training the Model
 To train the model, run the training script with the desired parameters:
