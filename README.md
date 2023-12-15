@@ -24,6 +24,7 @@ This project implements a deep learning model for medical image segmentation, sp
    conda activate Surgery_SAM
    pip install -r requirements.txt
    ```
+3. Prepare the SAM's code and place it into `Surgery-SAM/model/`
 
 ## Usage
 You should download the SAM\'s checkpoint here, we prefer vit_h version: [SAM\'s checkpoints](https://github.com/facebookresearch/segment-anything#model-checkpoints)
