@@ -13,8 +13,8 @@ This project implements a deep learning model for medical image segmentation, sp
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone 
-   cd [repository-name]
+   git clone https://github.com/StevenMa616777/Surgery-SAM.git
+   cd Surgery-SAM/
    ```
 2. Install the required Python packages:
    ```bash
