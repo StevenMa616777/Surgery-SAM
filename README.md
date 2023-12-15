@@ -6,8 +6,10 @@ This project implements a deep learning model for medical image segmentation, sp
 ## Installation
 
 ### Prerequisites
-- Python 3.x
-- PyTorch (compatible with CUDA for GPU usage)
+- Linux (We tested our codes on Ubuntu 18.04)
+- Anaconda
+- Python 3.10.11
+- Pytorch 2.0.0 **(Pytorch 2+ is necessary)**
 - Other dependencies listed in `requirements.txt`
 
 ### Setup
@@ -18,6 +20,8 @@ This project implements a deep learning model for medical image segmentation, sp
    ```
 2. Install the required Python packages:
    ```bash
+   conda create Surgery_SAM python==3.10.11
+   conda activate Surgery_SAM
    pip install -r requirements.txt
    ```
 
