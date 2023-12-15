@@ -20,7 +20,7 @@ This project implements a deep learning model for medical image segmentation, sp
    ```
 2. Install the required Python packages:
    ```bash
-   conda create Surgery_SAM python==3.10.11
+   conda create -n Surgery_SAM python==3.10.11
    conda activate Surgery_SAM
    pip install -r requirements.txt
    ```
